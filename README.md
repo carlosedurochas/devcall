@@ -1,4 +1,4 @@
-# Transcritor de Áudio de Aba
+# Transcritor de Áudio de Aba (DevCall)
 
 Extensão Chrome (Manifest V3) que **captura o áudio de uma aba, transcreve
 localmente com Whisper e baixa a transcrição em `.txt`** — tudo no browser,
@@ -8,6 +8,17 @@ Este MVP é a primeira fatia de um projeto maior: uma ferramenta para reuniões
 no Google Meet com a pipeline **captura → diarização → STT → resumo com LLM**.
 Hoje todos os estágios estão implementados: captura, diarização (sherpa-onnx),
 STT (Whisper) e resumo (Gemma 3 270M).
+
+### Vídeos de demonstração
+
+**Call de exemplo gerada com IA** (áudio usado para testar a extensão):
+
+<video src="data/video_call.mp4" controls width="600"></video>
+
+**Extensão em execução durante a call**, com o pipeline completo de ponta a
+ponta (captura → diarização → STT → resumo) chamando todos os modelos:
+
+<video src="data/video_extensao.mp4" controls width="600"></video>
 
 ---
 
