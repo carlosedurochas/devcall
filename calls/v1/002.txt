@@ -1,0 +1,5 @@
+[00:00] Falante 1: Vá la família, comprei o cloud code pra toda a empresa, hein? Pô, finalmente, pô, que a gente tava precisando, já, dá hora. Agora vocês vão ser 10 vezes mais produtivos, entrega do produto em uma semana. Falcam, tá ligado que o cloud code não é, não faz mágica, né? Cara, já tô até usando! Eu pedi pra ele refatorar o sistema inteiro. Vá aqui, hein. Ele tá rescrevendo em Rust.
+[00:21] Falante 1: Por que o Rastvaguinho? Ah, eu pedi pra ele escolher, ele achou que ia ser mais performante. Ah, pessoal, eu pedi pro clau de criada o comentação da API, ele criou uma API nova. Ele é, cara, pra documentar a API existente. Ah, nova tá melhor, já tô integrando com o API. É, managada, parece que o sistema caiu, que surpresa, né? Qual é assim, caiu? Vocês não testaram? Falcam, tá acabou de chegar aqui, manda todo mundo sair, sem contexto nenhum, refazer tudo do zero. Mas testa antes de subir,
+[01:04] Falante 4: que estava pixel perfecto.
+[01:05] Falante 1: Pique seu!
+[01:06] Falante 1: Eu não vou me...

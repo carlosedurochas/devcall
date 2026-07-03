@@ -1,0 +1,152 @@
+{
+  "v1": {
+    "avg_sequence_error_rate": 0.6761904761904761,
+    "avg_speaker_count_diff": 1.6666666666666667,
+    "videos": [
+      {
+        "video": "001.txt",
+        "num_speakers_ref": 5,
+        "num_speakers_hyp": 4,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 19,
+        "sequence_error_rate": 0.23809523809523808
+      },
+      {
+        "video": "002.txt",
+        "num_speakers_ref": 4,
+        "num_speakers_hyp": 2,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 3,
+        "sequence_error_rate": 0.8571428571428571
+      },
+      {
+        "video": "003.txt",
+        "num_speakers_ref": 3,
+        "num_speakers_hyp": 1,
+        "num_turns_ref": 15,
+        "num_turns_hyp": 1,
+        "sequence_error_rate": 0.9333333333333333
+      }
+    ]
+  },
+  "v2": {
+    "avg_sequence_error_rate": 0.6761904761904761,
+    "avg_speaker_count_diff": 1.6666666666666667,
+    "videos": [
+      {
+        "video": "001.txt",
+        "num_speakers_ref": 5,
+        "num_speakers_hyp": 4,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 19,
+        "sequence_error_rate": 0.23809523809523808
+      },
+      {
+        "video": "002.txt",
+        "num_speakers_ref": 4,
+        "num_speakers_hyp": 2,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 3,
+        "sequence_error_rate": 0.8571428571428571
+      },
+      {
+        "video": "003.txt",
+        "num_speakers_ref": 3,
+        "num_speakers_hyp": 1,
+        "num_turns_ref": 15,
+        "num_turns_hyp": 1,
+        "sequence_error_rate": 0.9333333333333333
+      }
+    ]
+  },
+  "v3": {
+    "avg_sequence_error_rate": 0.6761904761904761,
+    "avg_speaker_count_diff": 1.6666666666666667,
+    "videos": [
+      {
+        "video": "001.txt",
+        "num_speakers_ref": 5,
+        "num_speakers_hyp": 4,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 19,
+        "sequence_error_rate": 0.23809523809523808
+      },
+      {
+        "video": "002.txt",
+        "num_speakers_ref": 4,
+        "num_speakers_hyp": 2,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 3,
+        "sequence_error_rate": 0.8571428571428571
+      },
+      {
+        "video": "003.txt",
+        "num_speakers_ref": 3,
+        "num_speakers_hyp": 1,
+        "num_turns_ref": 15,
+        "num_turns_hyp": 1,
+        "sequence_error_rate": 0.9333333333333333
+      }
+    ]
+  },
+  "v4": {
+    "avg_sequence_error_rate": 0.5968253968253968,
+    "avg_speaker_count_diff": 3.6666666666666665,
+    "videos": [
+      {
+        "video": "001.txt",
+        "num_speakers_ref": 5,
+        "num_speakers_hyp": 12,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 24,
+        "sequence_error_rate": 0.5238095238095238
+      },
+      {
+        "video": "002.txt",
+        "num_speakers_ref": 4,
+        "num_speakers_hyp": 7,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 19,
+        "sequence_error_rate": 0.6666666666666666
+      },
+      {
+        "video": "003.txt",
+        "num_speakers_ref": 3,
+        "num_speakers_hyp": 4,
+        "num_turns_ref": 15,
+        "num_turns_hyp": 8,
+        "sequence_error_rate": 0.6
+      }
+    ]
+  },
+  "v5": {
+    "avg_sequence_error_rate": 0.5968253968253968,
+    "avg_speaker_count_diff": 3.6666666666666665,
+    "videos": [
+      {
+        "video": "001.txt",
+        "num_speakers_ref": 5,
+        "num_speakers_hyp": 12,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 24,
+        "sequence_error_rate": 0.5238095238095238
+      },
+      {
+        "video": "002.txt",
+        "num_speakers_ref": 4,
+        "num_speakers_hyp": 7,
+        "num_turns_ref": 21,
+        "num_turns_hyp": 19,
+        "sequence_error_rate": 0.6666666666666666
+      },
+      {
+        "video": "003.txt",
+        "num_speakers_ref": 3,
+        "num_speakers_hyp": 4,
+        "num_turns_ref": 15,
+        "num_turns_hyp": 8,
+        "sequence_error_rate": 0.6
+      }
+    ]
+  }
+}

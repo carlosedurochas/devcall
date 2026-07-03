@@ -4,7 +4,7 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   if (!msg || msg.target !== "background") return;
 
   if (msg.type === "start-recording") {
-    startRecording(msg.tabId, msg.tabTitle).then(
+    startRecording(msg.tabId, msg.tabTitle, msg.summaryEnabled).then(
       () => sendResponse({ ok: true }),
       (err) => sendResponse({ ok: false, error: err && err.message ? err.message : String(err) })
     );
@@ -31,11 +31,16 @@ chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   }
 });
 
-async function startRecording(tabId, tabTitle) {
+async function startRecording(tabId, tabTitle, summaryEnabled) {
   const streamId = await chrome.tabCapture.getMediaStreamId({ targetTabId: tabId });
   await ensureOffscreen();
   // O offscreen pode demorar um instante para registrar o listener: tenta ate responder.
-  await sendToOffscreen({ target: "offscreen", type: "offscreen-start", streamId });
+  await sendToOffscreen({
+    target: "offscreen",
+    type: "offscreen-start",
+    streamId,
+    summaryEnabled: summaryEnabled !== false,
+  });
   await chrome.storage.local.set({
     state: { phase: "recording", tabTitle, startedAt: Date.now() },
   });

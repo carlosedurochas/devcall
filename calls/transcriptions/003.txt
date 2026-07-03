@@ -1,0 +1,17 @@
+Falante 1: Fala família, identifiquei um problema aqui nos dados alegados. 
+Falante 2: E aí, Falcão, a gente tá ligado, tem 8 anos de registro inconsistente, tá? Tá no backlog pra gente resolver.
+Falante 1: Pois é, a IA vai corrigir.
+Falante 2: Como que a IA vai corrigir isso, Falcão?
+Falante 1: Ela analisa, entende o padrão e corrige.
+Falante 1: Falcão, até dá pra fazer com IA, só que os dados que estão errados é porque o negócio mudou, né? Então a IA não sabe qual que era a regra em 2017.
+Falante 1: Ah, ela aprende, meu.
+Falante 2: Com o que que ela vai aprender? Com um dado que tá errado?
+Falante 1: Ah, pra inferir.
+Falante 2: Ela vai inferir a regra de negócio de 8 anos atrás com dados que estão corrompidos, é isso?
+Falante 1: Exatamente.
+Falante 2: Falcão, se ela errar, vai colocar mais dado errado em cima dos dados errados.
+Falante 1: Ah, mas vai ser consistente.
+Falante 2: Isso. Cara, isso não é melhor do que o que a gente tem agora, Falcão?
+Falante 3: Posso tentar? Ele é tão prompt pra isso.
+Falante 2: Vaguinho, não, vaguinho.
+Falante 1: Ah, se der errado, o erro vai ser criativo, pelo menos.

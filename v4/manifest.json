@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "DevCall v4 — Moonshine-tiny + CAM++",
+  "name": "DevCall",
   "version": "0.4.0",
   "description": "STT: Moonshine-tiny. Diarização: CAM++ (3D-Speaker) — embedding multilíngue, arquitetura diferente do wespeaker.",
   "permissions": ["tabCapture", "offscreen", "tabs", "downloads", "storage"],

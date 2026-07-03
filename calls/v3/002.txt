@@ -1,0 +1,5 @@
+[00:00] Falante 1: Fala família, acompanhou o Cloud Code pra toda a empresa, hein? Por, finalmente, por que a gente estava precisando já, da hora. Agora vocês vão ser dez vezes mais produtivos, entregado pro produto em uma semana. Falcam, tá ligado que o Cloud Code não é, não faz mais, cara, né? Cara, já tô até usando, eu pedi pra ele refatorar o sistema inteiro. Vá aqui, hein. Ele tá reescrevendo em Rust.
+[00:21] Falante 1: Por que eu acho que vai agir? Eu pego para escolher, ele achou que ia ser mais performante. O pessoal eu pego para o Cloud de Criado com a Apeí, ele criou uma Apeí nova. Ele é a galera para documentar a Apeí existente. A nova tá melhor, já tô integrando com o Ape. É uma legada, parece que o sistema caiu, que surpresa, né? Qual é assim, caiu? Vocês não testaram? Falcam, tá acabou de chegar aqui mandando a todo mundo aí, assim, acontece nenhum, refazer tudo do zero. Mas testa antes de subir,
+[01:04] Falante 4: e tava pixel perfecto.
+[01:05] Falante 1: o seu
+[01:06] Falante 1: eu não me lembro

@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "DevCall v3 — Moonshine-base + Resnet34",
+  "name": "DevCall",
   "version": "0.3.0",
   "description": "STT: Moonshine-base (melhor qualidade que tiny, ainda mais rápido que Whisper). Diarização: wespeaker-resnet34.",
   "permissions": ["tabCapture", "offscreen", "tabs", "downloads", "storage"],

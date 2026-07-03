@@ -1,6 +1,9 @@
 const app = document.getElementById("app");
 let timerInterval = null;
 
+const manifest = chrome.runtime.getManifest();
+document.getElementById("footer").textContent = manifest.name + " · v" + manifest.version;
+
 // Re-renderiza sozinho quando o estado muda (gravando -> transcrevendo -> pronto).
 chrome.storage.onChanged.addListener((changes, area) => {
   if (area === "local" && changes.state) render(changes.state.newValue);
@@ -23,17 +26,36 @@ function render(state) {
 
 async function renderTabPicker() {
   const tabs = await chrome.tabs.query({});
-  const capturable = tabs.filter((t) => /^https?:/.test(t.url || ""));
+  const capturable = tabs.filter((t) => /^(https?|file):/.test(t.url || ""));
+  const { summaryEnabled } = await chrome.storage.local.get("summaryEnabled");
+  let summaryOn = summaryEnabled !== false;
 
   app.innerHTML =
     '<h1>Transcrever audio de uma aba</h1>' +
     '<p class="hint">Escolha a aba cujo audio voce quer transcrever.</p>' +
     '<ul id="list"></ul>' +
+    '<div class="toggle-row">' +
+    '<span class="label">Gerar resumo</span>' +
+    '<button id="summaryToggle" class="switch" type="button" role="switch"></button>' +
+    '</div>' +
     '<button id="rec" class="rec" disabled>Gravar</button>';
 
   const list = document.getElementById("list");
   const recBtn = document.getElementById("rec");
+  const summaryToggle = document.getElementById("summaryToggle");
   let selectedId = null;
+
+  const renderToggle = () => {
+    summaryToggle.classList.toggle("on", summaryOn);
+    summaryToggle.setAttribute("aria-checked", String(summaryOn));
+  };
+  renderToggle();
+
+  summaryToggle.addEventListener("click", async () => {
+    summaryOn = !summaryOn;
+    renderToggle();
+    await chrome.storage.local.set({ summaryEnabled: summaryOn });
+  });
 
   if (capturable.length === 0) {
     const li = document.createElement("li");
@@ -70,6 +92,7 @@ async function renderTabPicker() {
       type: "start-recording",
       tabId: selectedId,
       tabTitle: tab.title || tab.url,
+      summaryEnabled: summaryOn,
     });
     if (!res || !res.ok) {
       app.innerHTML =

@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
-  "name": "Transcritor de Áudio de Aba",
-  "version": "0.4.0",
+  "name": "DevCall",
+  "version": "0.1.0",
   "description": "Grava o áudio de uma aba, identifica falantes, transcreve localmente com Whisper, resume com Gemma 3 270M e baixa os textos.",
   "permissions": ["tabCapture", "offscreen", "tabs", "downloads", "storage"],
   "action": {

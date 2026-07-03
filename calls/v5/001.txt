@@ -1,0 +1,26 @@
+[00:00] Falante 1: Então, lá, disse que eu achei que o link parece que o Render do WebSocket, cada conexão que cai, ele não está limparando, aí está ficando na sessão.
+[00:07] Falante 2: Eu sei, eu reportei isso em fevereiro, em ninguém melhorizou. Cara, a gente está com três mil usuários afetados.
+[00:10] Falante 1: que
+[00:11] Falante 9: Futados. Oi amores! O cliente MegaCorp está com problema urgente. Pô nem dá uma olhada?
+[00:17] Falante 5: E aí, beleza? Cara, a gente está no meio de incidente, tu consegue...
+[00:21] Falante 5: Abre um tiguito ou chamar o valinho para ver se você pode fazer isso, por favor.
+[00:25] Falante 13: já abrir mais 0, precisa avisar direto.
+[00:28] Falante 2: Quem classificou isso como pesado?
+[00:30] Falante 6: É o...
+[00:31] Falante 6: que o clima foi muito bravo.
+[00:32] Falante 2: Leite bravo não apesar.
+[00:34] Falante 4: mas ele pode cancelar o contrato. E qual que é o problema dele?
+[00:37] Falante 2: é que o botão tá um pixel pra direita.
+[00:40] Falante 4: um pixel.
+[00:41] Falante 2: o designer da empresa dele reclamou.
+[00:43] Falante 4: Nós temos três mil usuários que não conseguem usar o produto.
+[00:45] Falante 2: e um cliente tem um botão um pixel fora do lugar.
+[00:48] Falante 15: Mas esse cliente paga muito.
+[00:51] Falante 4: Então ele vai ficar mais bravo quando o sistema cai de vez.
+[00:53] Falante 8: para se ele chamar o Falcon
+[00:55] Falante 10: O meu Deus, escalou por favor, calma.
+[01:00] Falante 6: Ovinho, Vlá, eu sei o que vocês estão fazendo.
+[01:02] Falante 7: e muito importante.
+[01:03] Falante 18: mas aqui está o link para o Arhun, para a gente resolver o botão. O Aliaga já está lá, e ele vai garantir o Pixel 4.
+[01:09] Falante 2: Mas não me deixe.
+[01:10] Falante 8: Ah, mano, não é?

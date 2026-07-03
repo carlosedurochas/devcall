@@ -9,10 +9,15 @@ let stream = null;
 let transcriber = null;
 let summarizer = null;
 let libPromise = null;
+let summaryEnabled = true;
 
 chrome.runtime.onMessage.addListener((msg, _sender, sendResponse) => {
   if (!msg || msg.target !== "offscreen") return;
-  if (msg.type === "offscreen-start") { start(msg.streamId); sendResponse({ ok: true }); }
+  if (msg.type === "offscreen-start") {
+    summaryEnabled = msg.summaryEnabled !== false;
+    start(msg.streamId);
+    sendResponse({ ok: true });
+  }
   if (msg.type === "offscreen-stop") { stop(); sendResponse({ ok: true }); }
   return false;
 });
@@ -104,11 +109,13 @@ async function finalize() {
     const text = buildTranscriptText(out, turns, audio.length / 16000);
 
     let summary = "";
-    try {
-      summary = await summarize(text);
-    } catch (e) {
-      console.error("Falha no resumo:", e);
-      summary = "[erro ao gerar resumo: " + (e && e.message ? e.message : e) + "]";
+    if (summaryEnabled) {
+      try {
+        summary = await summarize(text);
+      } catch (e) {
+        console.error("Falha no resumo:", e);
+        summary = "[erro ao gerar resumo: " + (e && e.message ? e.message : e) + "]";
+      }
     }
 
     send({ type: "download-transcript", text, summary });

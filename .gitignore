@@ -1,0 +1,4 @@
+scripts/.venv/
+scripts/.models/
+scripts/.cache/
+.claude

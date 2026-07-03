@@ -55,10 +55,33 @@
   }
   @keyframes spin { to { transform: rotate(360deg); } }
   .status { font-size: 14px; margin: 12px 0 14px; font-variant-numeric: tabular-nums; }
+  .toggle-row {
+    display: flex; align-items: center; justify-content: space-between;
+    margin: 0 0 12px; padding: 9px 11px;
+    border: 1px solid #3a3a3c; border-radius: 10px;
+  }
+  .toggle-row .label { font-size: 13px; }
+  .switch {
+    position: relative; width: 38px; height: 22px; flex: none;
+    border: none; border-radius: 11px; background: #3a3a3c;
+    cursor: pointer; padding: 0; transition: background .15s;
+  }
+  .switch.on { background: #34c759; }
+  .switch::after {
+    content: ""; position: absolute; top: 2px; left: 2px;
+    width: 18px; height: 18px; border-radius: 50%; background: #fff;
+    transition: transform .15s;
+  }
+  .switch.on::after { transform: translateX(16px); }
+  .footer {
+    text-align: center; font-size: 11px; color: #6e6e72;
+    padding: 8px 14px 12px; border-top: 1px solid #2a2a2c;
+  }
 </style>
 </head>
 <body>
   <div class="wrap" id="app">Carregando…</div>
+  <div class="footer" id="footer"></div>
   <script src="popup.js"></script>
 </body>
 </html>

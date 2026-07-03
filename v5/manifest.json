@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "DevCall v5 — Moonshine-base + CAM++",
+  "name": "DevCall",
   "version": "0.5.0",
   "description": "STT: Moonshine-base (melhor qualidade). Diarização: CAM++ (3D-Speaker). Combinação teto de qualidade no browser sem Whisper/resnet.",
   "permissions": ["tabCapture", "offscreen", "tabs", "downloads", "storage"],

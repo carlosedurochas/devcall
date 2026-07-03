@@ -1,0 +1,21 @@
+Falante 1: Então, Vlad, se liga, eu achei aqui o leak, parece que o handler do WebSocket, cada conexão que cai, ele não tá limpando, aí tá ficando na sessão.
+Falante 2: É, eu sei, eu reportei isso em fevereiro e ninguém priorizou.
+Falante 1: Cara, a gente tá com 3 mil usuários afetados.
+Falante 3:Oi, amores! Ó, o cliente Megacorp tá com um problema urgente. Podem dar uma olhada?
+Falante 1: E aí, beleza? Cara, a gente tá no meio de um incidente. Tu consegue... abrir um ticket ou chamar o vaguinho pra ver se ele pode fazer isso, por favor?
+Falante 2: Ah, já abri, mas é P0. Preciso avisar direto.
+Falante 1: Quem classificou isso como P0?
+Falante 2: Eu. O cliente ficou muito bravo.
+Falante 3: Cliente bravo não é P0 técnico.
+Falante 2: Mas ele pode cancelar o contrato.
+Falante 3: E qual que é o problema dele?
+Falante 2: É que o botão tá um pixel pra direita.
+Falante 3: Um pixel?
+Falante 2: O designer da empresa dele reclamou.
+Falante 3: Nós temos 3 mil usuários que não conseguem usar o produto e um cliente tem um botão um pixel fora do lugar.
+Falante 2: Mas é que esse cliente paga muito.
+Falante 3: Então ele vai ficar mais bravo quando o sistema cair de vez.
+Falante 1: É, parece que ele chamou o Falcão, mano.
+Falante 4: Ô, família, já sabe, né? O botão da Megacore. P0, para tudo.
+Falante 3: Meu Deus, escalou pro Falcão.
+Falante 5: Ô, Vini, Vlad, eu sei o que vocês estão fazendo é importante. Mas aqui tá o link pra War Room pra gente resolver o botão. O LH já tá lá e ele vai garantir o pixel perfect.

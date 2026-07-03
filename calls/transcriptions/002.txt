@@ -1,0 +1,21 @@
+Falante 1: Fala família, comprei o Cloud Coding pra toda a empresa, hein?
+Falante 2: Pô, finalmente, Falcão, a gente tava precisando já, da hora.
+Falante 1: Agora vocês vão ser dez vezes mais produtivos. Entrega do produto em uma semana.
+Falante 2: Falcão, tu tá ligado que o Cloud Coding não é... não faz mágica, né?
+Falante 3: Cara, já tô até usando. Eu pedi pra ele refatorar o sistema inteiro.
+Falante 2: Vaguinho...
+Falante 3: Ele tá reescrevendo em Rust.
+Falante 2: Por que em Rust, Vaguinho?
+Falante 3: Ah, eu pedi pra ele escolher, ele achou que ia ser mais performático.
+Falante 4: Pessoal, eu pedi pro Cloud criar a documentação da API. Ele criou uma API nova.
+Falante 2: LH, é pra documentar a API existente.
+Falante 4: A nova tá melhor. Já tô integrando com o app.
+Falante 1: Viu só? Dez vezes produtividade.
+Falante 2: É, molegada, parece que o sistema caiu. Que surpresa, né?
+Falante 1: Como assim, caiu? Vocês não testaram?
+Falante 2: Falcão, tu acabou de chegar aqui e mandar todo mundo sair sem contexto nenhum. Refazer tudo do zero.
+Falante 1: Mas testa antes de subir, gente. É básico, deu meu horário.
+Falante 3: Vai começar? Checa aí a África do Sul, não dá pra perder esse jogaço.
+Falante 2: LH, tu fez o... Tu fez o review do que o Vaguinho subiu, tu chegou a testar?
+Falante 4: Eu fiz, pô. A UI tava pixel perfect.
+Falante 2: Ah, mano, não me irrita.

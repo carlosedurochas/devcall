@@ -1,0 +1,26 @@
+[
+  {
+    "video": "001.mp4",
+    "duration_sec": 71.4491875,
+    "num_turns": 26,
+    "diarization_ms": 12591,
+    "transcription_ms": 110058,
+    "total_ms": 122650
+  },
+  {
+    "video": "002.mp4",
+    "duration_sec": 68.616375,
+    "num_turns": 21,
+    "diarization_ms": 12519,
+    "transcription_ms": 69031,
+    "total_ms": 81550
+  },
+  {
+    "video": "003.mp4",
+    "duration_sec": 52.0373125,
+    "num_turns": 10,
+    "diarization_ms": 8554,
+    "transcription_ms": 59193,
+    "total_ms": 67747
+  }
+]
