@@ -1,0 +1,25 @@
+[00:00] Falante 1: O que é a gente?
+[00:13] Falante 2: E aí, já vêm vindo, cara, tá com um sotor, né?
+[00:16] Falante 2: Dora, que sistema está se organizando?
+[00:19] Falante 1: só conversar com o Falcão sobre a visão estratégia.
+[00:21] Falante 2: Mas o sistema nosso chegou a ver?
+[00:23] Falante 2: O que você viu?
+[00:25] Falante 1: Focou um explicó todo o contexto geral.
+[00:26] Falante 2: Você chegou a ver o código, o arquitetura, o linear como funciona.
+[00:31] Falante 3: Você é mais da fase de implementação? Você passou uma semana aqui e não viu nenhum sistema. Só viu o Roadmap? O Roadmap que o Falcão montou no Figma. É, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é, é,
+[00:44] Falante 1: A minha recomendação é que vocês adicioneem iA em todos os pontos de contato de usuário.
+[00:49] Falante 2: tipo quais pontos jorvanos
+[00:51] Falante 1: O chatbot, o sistema de recomendação.
+[00:53] Falante 2: A gente não tem sete bote.
+[00:56] Falante 1: Então, mas deveria ter, né?
+[00:57] Falante 2: A gente também não tem sistema de recomendação.
+[01:00] Falante 1: É, é, é, é, é, é, é, é,
+[01:01] Falante 2: Falou que é um TASSER, tu e o Serta recomendando construir três sistemas do zero.
+[01:06] Falante 1: Então, aí para isso, eu te me preciso adotar uma cultura de prompt engine new.
+[01:12] Falante 2: Cara, o prômpti em dinheiro para fazer o quê?
+[01:15] Falante 1: para usar a melhor.
+[01:16] Falante 2: melhor do que o que tu chegou a ver que a gente usa, tu ainda não é inviúis não é?
+[01:21] Falante 3: Eu vou precisar de acesso a ambiente de vocês pra validar. Ele passou uma semana aqui, fez recomendações, agora perde acesso pra ver o que existe.
+[01:29] Falante 1: Mas é parte do processo. Faz sentido.
+[01:32] Falante 1: do D.
+[01:33] Falante 2: a mais uma

@@ -1,0 +1,10 @@
+[00:00] Falante 1: O Vaguinho, eu estou vendo aqui que o PR tem quatro arquivos modificados. Sim, fiz a feature toda. Só que dois nesses arquivos são esquimados de banco de dados. A senhora que eu precisei alterar a testar. Vaguinho, esquimado não tem que ser comentado no repositório, né? Mas não é que eu passei a bar de AB, eu achei que fazia parte do projeto. Tudo a vez que eu testava, o esquimama mudava, eu comentava para salvar o palmeza. Mas por isso que a gente coloca no Gatigno Ornete, por o Gatina lugar para salvar o estado do banco de dados, sobre o dia do movimento, ou local.
+[00:02] Falante 2: Eu não sei.
+[00:06] Falante 2: Ainda que eu estou.
+[00:11] Falante 2: Muito obrigada.
+[00:19] Falante 2: Não beleza.
+[00:28] Falante 2: Eu conseguia voltar quando davaio.
+[00:30] Falante 1: Você sabe que funcionalmente não está errado como estratégia, né, Vinho? Olha a gata. Eu estou só dizendo. Ele resolveu um problema real, de um jeito criativo. Pô, mano, ele comitou o baguinho, comitou o banco de dados no repositório de produção três vezes.
+[00:43] Falante 2: e eu posso dar a Reverch.
+[00:46] Falante 1: Você não pode dar vajinho, só que agora o histórico do Geek tem acesso, né? O bom que te dá de dev do vajinho. Então, tem que dar reverti nos comestes do Envy também, né?
+[00:57] Falante 1: Ah mano, não me heita.

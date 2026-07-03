@@ -3,24 +3,120 @@
     "video": "001.mp4",
     "duration_sec": 71.4491875,
     "num_turns": 26,
-    "diarization_ms": 12591,
-    "transcription_ms": 110058,
-    "total_ms": 122650
+    "diarization_ms": 12563,
+    "transcription_ms": 85256,
+    "total_ms": 97819
   },
   {
     "video": "002.mp4",
     "duration_sec": 68.616375,
     "num_turns": 21,
-    "diarization_ms": 12519,
-    "transcription_ms": 69031,
-    "total_ms": 81550
+    "diarization_ms": 11912,
+    "transcription_ms": 52280,
+    "total_ms": 64192
   },
   {
     "video": "003.mp4",
     "duration_sec": 52.0373125,
     "num_turns": 10,
-    "diarization_ms": 8554,
-    "transcription_ms": 59193,
-    "total_ms": 67747
+    "diarization_ms": 8487,
+    "transcription_ms": 38614,
+    "total_ms": 47101
+  },
+  {
+    "video": "004.mp4",
+    "duration_sec": 62.7649375,
+    "num_turns": 22,
+    "diarization_ms": 10595,
+    "transcription_ms": 55819,
+    "total_ms": 66414
+  },
+  {
+    "video": "005.mp4",
+    "duration_sec": 63.5544375,
+    "num_turns": 18,
+    "diarization_ms": 10736,
+    "transcription_ms": 58453,
+    "total_ms": 69189
+  },
+  {
+    "video": "006.mp4",
+    "duration_sec": 58.956875,
+    "num_turns": 24,
+    "diarization_ms": 9521,
+    "transcription_ms": 67097,
+    "total_ms": 76618
+  },
+  {
+    "video": "007.mp4",
+    "duration_sec": 63.972375,
+    "num_turns": 17,
+    "diarization_ms": 10417,
+    "transcription_ms": 47162,
+    "total_ms": 57578
+  },
+  {
+    "video": "008.mp4",
+    "duration_sec": 94.111875,
+    "num_turns": 46,
+    "diarization_ms": 16411,
+    "transcription_ms": 111967,
+    "total_ms": 128378
+  },
+  {
+    "video": "009.mp4",
+    "duration_sec": 50.2261875,
+    "num_turns": 19,
+    "diarization_ms": 7904,
+    "transcription_ms": 48886,
+    "total_ms": 56791
+  },
+  {
+    "video": "010.mp4",
+    "duration_sec": 93.83325,
+    "num_turns": 33,
+    "diarization_ms": 16878,
+    "transcription_ms": 93353,
+    "total_ms": 110231
+  },
+  {
+    "video": "011.mp4",
+    "duration_sec": 39.4985625,
+    "num_turns": 12,
+    "diarization_ms": 5888,
+    "transcription_ms": 30795,
+    "total_ms": 36684
+  },
+  {
+    "video": "012.mp4",
+    "duration_sec": 46.2788125,
+    "num_turns": 23,
+    "diarization_ms": 7028,
+    "transcription_ms": 60177,
+    "total_ms": 67205
+  },
+  {
+    "video": "013.mp4",
+    "duration_sec": 47.346875,
+    "num_turns": 15,
+    "diarization_ms": 7527,
+    "transcription_ms": 36028,
+    "total_ms": 43555
+  },
+  {
+    "video": "014.mp4",
+    "duration_sec": 76.6040625,
+    "num_turns": 27,
+    "diarization_ms": 12763,
+    "transcription_ms": 66872,
+    "total_ms": 79635
+  },
+  {
+    "video": "015.mp4",
+    "duration_sec": 92.765125,
+    "num_turns": 40,
+    "diarization_ms": 15754,
+    "transcription_ms": 97895,
+    "total_ms": 113649
   }
 ]

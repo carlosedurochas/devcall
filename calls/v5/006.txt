@@ -1,0 +1,24 @@
+[00:00] Falante 1: O Vangui, eu estou vendo aqui que o Péri tem 4 arquivos modificados, né?
+[00:02] Falante 2: Fiz a feature toda.
+[00:04] Falante 1: Só que dois recebem que são esquimas do banco de idade.
+[00:06] Falante 2: Associa que o preciso é alterar a potesta.
+[00:09] Falante 1: Vaguim, isso que não tem que ser comentado no repositora, não?
+[00:11] Falante 2: Mas eu não posso dar barra de B, eu achei que fazia parte do projeto. Tudo a vez que eu testava, o esquema mudava, eu comitava para salvar o baleza.
+[00:19] Falante 3: Não beleza.
+[00:19] Falante 1: mas por isso que a gente coloca no gate de gnornet, o gate na lugar pra salvar o estado do banco de idade, do desenvolvimento,
+[00:27] Falante 10: Ah, é.
+[00:27] Falante 2: Apenas se funcionou? Eu conseguia voltar quando dava eu.
+[00:30] Falante 10: Você sabe que ele é.
+[00:32] Falante 11: funcionar o bens de não ter.
+[00:32] Falante 10: como estraté.
+[00:34] Falante 2: O que é que é?
+[00:34] Falante 5: Eu vou pegar.
+[00:35] Falante 10: Eu estou falando de Zéi.
+[00:36] Falante 12: e resolveu um problema.
+[00:37] Falante 10: o problema é algo que é o que é o que é o que é o que é o que é o que é o
+[00:39] Falante 2: Poma, ele comitou o baguito comitou o banco de data no repustado de produção 3 vezes.
+[00:43] Falante 7: e eu posso da Reverch.
+[00:46] Falante 10: Mas agora, o histórico do Geet tem acesso.
+[00:49] Falante 2: de
+[00:52] Falante 14: Então, tem que dar reverti nos comestos do Envy também, né?
+[00:57] Falante 2: Ah mano, não me heita.

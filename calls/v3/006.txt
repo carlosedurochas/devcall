@@ -1,0 +1,10 @@
+[00:00] Falante 1: O Vagui eu estou vendo aqui que o PR tem quatro arquivos modificados. Só que dois nesses arquivos são esquímados bancos de dados. O esquímado não tem que ser comentado no repositório, né? Mas por isso que a gente coloca no Gatignornet, o Gatignor é para salvar o estado do banco de dados, o dia de movimento, ou local.
+[00:02] Falante 2: Eu não sei.
+[00:06] Falante 2: Ainda que eu não sei.
+[00:11] Falante 2: estou adianta.
+[00:19] Falante 2: Na mesa.
+[00:28] Falante 2: Eu conseguia voltar quando dava eu.
+[00:30] Falante 1: Você sabe que funciona não está errado como estratégia, né? Eu estou só dizendo, ele resolveu um problema real, de um jeito criativo. Pô, mano, ele comentou, o baguinho comentou o banco de data no repositório de produção três vezes.
+[00:43] Falante 2: e eu posso da Reverch.
+[00:46] Falante 1: mas agora o histórico do Github tem acesso, né? O bom que te dá de dev. Então tem que dar reverti nos comestes do Envy também, né?
+[00:57] Falante 1: Ah mano, não me heita.
