@@ -13,12 +13,12 @@ STT (Whisper) e resumo (Gemma 3 270M).
 
 **Call de exemplo gerada com IA** (áudio usado para testar a extensão):
 
-<video src="data/video_call.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/7d31effc-e034-4c7f-8183-12ceb22c3ad6
 
 **Extensão em execução durante a call**, com o pipeline completo de ponta a
 ponta (captura → diarização → STT → resumo) chamando todos os modelos:
 
-<video src="data/video_extensao.mp4" controls width="600"></video>
+https://github.com/user-attachments/assets/e2d83184-7dae-4cea-b24f-9c586865ccc1
 
 ---
 
@@ -223,6 +223,7 @@ Após a transcrição e o alinhamento, o offscreen roda o **Gemma 3 270M instruc
 (`onnx-community/gemma-3-270m-it-ONNX`) via `transformers.js`, no mesmo
 device (WebGPU ou WASM) usado pelo Whisper, **em sequência** para não disputar
 recursos.
+
 
 - O texto diarizado (com `Falante N`) é enviado como mensagem de usuário, com
   um prompt em pt-BR pedindo um resumo em tópicos: "Principais pontos",
