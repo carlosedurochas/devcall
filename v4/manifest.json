@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "DevCall v4 — Moonshine-tiny + CAM++",
+  "version": "0.4.0",
+  "description": "STT: Moonshine-tiny. Diarização: CAM++ (3D-Speaker) — embedding multilíngue, arquitetura diferente do wespeaker.",
+  "permissions": ["tabCapture", "offscreen", "tabs", "downloads", "storage"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Transcrever áudio da aba"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_security_policy": {
+    "extension_pages": "script-src 'self' 'wasm-unsafe-eval'; object-src 'self'; connect-src 'self' https://huggingface.co https://*.huggingface.co https://*.hf.co"
+  }
+}
